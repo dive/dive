@@ -26,9 +26,4 @@ And I am still in love with the mobile world.
 
 ## Stats
 
-<a href="https://github.com/dive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dive&count_private=true&show_icons=true&theme=default&hide=stars" />
-</a>
-<a href="https://github.com/dive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dive&theme=default&layout=compact" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=dive&count_private=true&show_icons=true&theme=default&hide=stars)
