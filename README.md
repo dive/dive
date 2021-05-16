@@ -21,7 +21,7 @@ And I am still in love with the mobile world.
 
 ## Latest blog posts
 
-– [How to get the current selected Xcode and list installed](https://gist.github.com/dive/da0a696f2d51a1cbef04762c3a216192)
+- [How to get the current selected Xcode and list installed](https://gist.github.com/dive/da0a696f2d51a1cbef04762c3a216192)
 - [Grammarly iOS Keyboard – Unboxing](https://gist.github.com/dive/439ad0be54ae52a312152d89bed3fa1f)
 - [Xcode invocation tool - `xed`](https://gist.github.com/dive/8d8f222f6851afaea338f853c7d51410)
 - [Multiple Xcode versions or Why `xcrun` is your friend](https://gist.github.com/dive/d2df088567b25971a44f02b1f05d6916)
