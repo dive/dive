@@ -1,6 +1,6 @@
 Hello there,
 
-I am Artem, a senior mobile engineer, technical lead and self-proclaimed DevOps who specializes in mobile development. I am closely associated with the mobile industry for many years, I remember the first iPhone and the first beta version of Android (HTC Hero, I still love you!), remember the slogan "HTML is the future of mobile applications", and I have seen the innovations conquer the world, and the mobile industry unicorns emit their spirits.
+I am Artem, a director of engineering, a senior mobile engineer, technical lead and self-proclaimed DevOps who specializes in mobile development. I am closely associated with the mobile industry for many years, I remember the first iPhone and the first beta version of Android (HTC Hero, I still love you!), remember the slogan "HTML is the future of mobile applications", and I have seen the innovations conquer the world, and the mobile industry unicorns emit their spirits.
 And I am still in love with the mobile world.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/artemloenko/)
