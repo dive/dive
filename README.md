@@ -7,7 +7,7 @@ And I am still in love with the mobile world.
 Ah, yes, and also an Emacs user.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/artemloenko/)
-[![Mastodon Badge](https://img.shields.io/mastodon/follow/@justsitandgrin?domain=https%3A%2F%2Femacs.ch&style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://emacs.ch/@justsitandgrin)
+[![Mastodon Badge](https://img.shields.io/mastodon/follow/109588253760556674?domain=https%3A%2F%2Femacs.ch&style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://emacs.ch/@justsitandgrin)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/justsitandgrin)
 
 ## Skills
