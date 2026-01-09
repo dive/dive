@@ -32,7 +32,7 @@ On the boring side of things, I am a technology leader with over 20 years of exp
 
 ## Latest blog posts
 
-- [How to get the current selected Xcode and list installed](http://justsitandgrin.im/how-to-get-the-current-selected-xcode-and-list-installed/)
-- [Grammarly iOS Keyboard – Unboxing](http://justsitandgrin.im/grammarly-ios-keyboard-unboxing/)
-- [Xcode invocation tool - `xed`](http://justsitandgrin.im/xcode-invocation-tool-xed/)
-- [Multiple Xcode versions or Why `xcrun` is your friend](http://justsitandgrin.im/multiple-xcode-versions-or-why-xcrun-is-your-friend/)
+- [How to get the current selected Xcode and list installed](https://justsitandgrin.im/posts/get_current_selected_xcode/)
+- [Grammarly iOS Keyboard – Unboxing](https://justsitandgrin.im/posts/grammarly_ios_unboxing/)
+- [Xcode invocation tool - `xed`](https://justsitandgrin.im/posts/xed_xcode_invocation_tool/)
+- [Multiple Xcode versions or Why `xcrun` is your friend](https://justsitandgrin.im/posts/multiple_xcode_versions_and_xcrun/)
